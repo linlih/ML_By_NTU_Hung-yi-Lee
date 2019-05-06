@@ -7,4 +7,4 @@
 
 方式2.使用安装Chrome插件的方式
   - [安装](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo?hl=zh-CN)Colab插件
-  - 进入对应的ipynb，然后点击Colab图标即可使用Colab打开
+  - 进入对应的ipynb，然后点击Chrome浏览器右上方Colab图标即可使用Colab打开
